@@ -18,5 +18,4 @@ As a user, you can create accounts, then create cards, topics, and others for Ka
 
 * Preview
 
-![TBD]()
 
